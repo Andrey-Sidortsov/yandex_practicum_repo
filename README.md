@@ -1,1 +1,1 @@
-# ds_practicum_repo
+# yandex_practicum
